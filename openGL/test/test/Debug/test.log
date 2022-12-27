@@ -1,4 +1,0 @@
-﻿  test.cpp
-C:\Users\Test\Downloads\ComputerGraphics\openGL\test\test\test.cpp(1669,8): warning C4101: 'fAngle': unreferenced local variable
-C:\Users\Test\Downloads\ComputerGraphics\openGL\test\test\test.cpp(1668,8): warning C4101: 'fRInc': unreferenced local variable
-  test.vcxproj -> C:\Users\Test\Downloads\ComputerGraphics\openGL\test\Debug\test.exe
